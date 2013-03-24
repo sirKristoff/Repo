@@ -9,7 +9,7 @@
  * @note To tylko progam treningowy
  */
 
-
+#include <iostream>
 
 int main(int argc, char* argv[])
 {
