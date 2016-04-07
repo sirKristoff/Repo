@@ -1,0 +1,7 @@
+#.gitignore
+*.a
+*.o
+*~
+/TODO		# zignoruj plik 'TODO' w katalogu glownym repo
+
+*.exe
